@@ -36,4 +36,9 @@ The product that is 0.50 more expensive has the ST USB bootloader installed.  I'
 Read about them hear  http://stm32duino.com/viewtopic.php?f=50&t=2900&hilit=robotdyn
 
 
+## Flashing the Boot Loader
+
+Download 
+D:\Projects\Arduino_STM>stm32flash.exe -w hid_generic_pc13.bin COM12
+
 
