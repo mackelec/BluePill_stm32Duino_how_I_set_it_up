@@ -21,4 +21,13 @@ A core is the assemblies of code that provides the Arduino specific commands and
 
 ### Aquiring a BluePill
 
+Using the reference http://stm32duino.com/viewtopic.php?f=55&t=2465
+Search on your local eBay for "stm32f103c8t6 board for Arduino".
+Search AliExpress for "stm32f103c8t6 minimum board".
+
+These BluePills, all come with an assembly fault.  R10 = 10k where it should = 1k5
+
+A better alternative may be (untested by me so far)  www.robotdyn.com
+A BluePill equivilant https://robotdyn.com/catalog/development-boards/stm-boards-and-shields.html  but without the assembly faults.  The cheaper Bluepills are well known for their poorer quality.
+The product that is 0.50 more expensive has the ST USB bootloader installed.  I'd buy it without the bootloader.  I'd also buy it without the pins soldered.
 
