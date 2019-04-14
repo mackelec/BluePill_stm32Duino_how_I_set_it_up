@@ -39,6 +39,7 @@ Read about them hear  http://stm32duino.com/viewtopic.php?f=50&t=2900&hilit=robo
 ## Flashing the Boot Loader
 
 Download 
+
 D:\Projects\Arduino_STM>stm32flash.exe -w hid_generic_pc13.bin COM12
 
 
