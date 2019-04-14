@@ -35,10 +35,16 @@ The product that is 0.50 more expensive has the ST USB bootloader installed.  I'
 
 Read about them hear  http://stm32duino.com/viewtopic.php?f=50&t=2900&hilit=robotdyn
 
+##### Programing Tools
+
+In order to flash the Blue Pill you are going to need a USB to Serial device or stLinkV2.
+[Example of USB serial device :] (https://www.ebay.com.au/itm/STC-microcontroller-Auto-download-SCM-Burning-Programmer-USB-to-TTL-3-3-5V-Cable/362591879808?hash=item546c290280:g:~hcAAOSwPPtckwhi&frcectupt=true)
 
 ### Preparing the BluePill
 
-As mentioned all BluePills have the wrong value for R10, which should be 1.5k ohm.  You could replace R10 before you solder the pins on, it get difficult after you've done so.  Or you could solder a resistor on as shown in the image.
+As mentioned all BluePills have the wrong value for R10, which should be 1.5k ohm.  You could replace R10 before you solder the pins on, it gets difficult after the pins are solder on.  Or you could solder a resistor on as shown in the image.
+
+
 
 #### Flashing the Boot Loader
 
