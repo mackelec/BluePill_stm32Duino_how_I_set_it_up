@@ -38,7 +38,7 @@ Read about them hear  http://stm32duino.com/viewtopic.php?f=50&t=2900&hilit=robo
 ##### Programing Tools
 
 In order to flash the Blue Pill you are going to need a USB to Serial device or stLinkV2.
-[Example of USB serial device :] (https://www.ebay.com.au/itm/STC-microcontroller-Auto-download-SCM-Burning-Programmer-USB-to-TTL-3-3-5V-Cable/362591879808?hash=item546c290280:g:~hcAAOSwPPtckwhi&frcectupt=true)
+[Example of USB serial device :](https://www.ebay.com.au/itm/STC-microcontroller-Auto-download-SCM-Burning-Programmer-USB-to-TTL-3-3-5V-Cable/362591879808?hash=item546c290280:g:~hcAAOSwPPtckwhi&frcectupt=true)
 
 ### Preparing the BluePill
 
