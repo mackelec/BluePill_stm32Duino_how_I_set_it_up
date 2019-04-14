@@ -1,3 +1,5 @@
+[Back](https://github.com/mackelec/BluePill_stm32Duino_how_I_set_it_up/blob/master/README.md)
+
 ### Definitions 
 
 #### Portable
@@ -11,3 +13,6 @@ The Boot Loader is a small program loaded into the stm32 to allow us to upload o
 #### Core
 
 A core is the assemblies of code that provides the Arduino specific commands and libraries.  This is a simplification but I hope you get the idea.  Too make things a little more confusing, there are multiple "cores" available for the BluePill or stm micros.  ST has the Official core, but the popular core is the one by Roger Clark who also runs the www.stm32duino.com forum.  This is the one I use.
+
+
+[Back](https://github.com/mackelec/BluePill_stm32Duino_how_I_set_it_up/blob/master/README.md)
