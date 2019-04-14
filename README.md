@@ -1,3 +1,5 @@
+![Blue Pill](https://github.com/mackelec/BluePill_stm32Duino_how_I_set_it_up/blob/master/images/STM32_BP_Alt_Top_View.jpg)
+
 # BluePill stm32Duino.  How I set it up
 How I setup Arduino for stm32Duino (Roger's Core), flash the HID bootloader and the BluePill USB mod.
 
